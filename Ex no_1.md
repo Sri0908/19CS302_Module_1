@@ -10,7 +10,7 @@ To write a program to initialize the value as 5.8 & display the same.
 5. End  
 
 ## Program:
-c
+```c
 #include<stdio.h> 
 int main()
 {
@@ -18,7 +18,7 @@ float a =5.800000;
 printf ("%.1f",a); 
 return 0;
 }
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/6678c2f3-fa14-426e-a6b7-1dbbe85404a4)
